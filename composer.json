@@ -1,0 +1,19 @@
+{
+  "name": "juanda/pbwl-project10",
+  "description": "Praktikum pbwl-project10 Pemrograman Berbasis Web Lanjutan",
+  "type": "project",
+  "authors": [
+    {
+      "name": "juanda",
+      "email": "juanda@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "filp/whoops": "^2.14"
+  }
+}
